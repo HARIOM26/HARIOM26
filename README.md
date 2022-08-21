@@ -19,7 +19,7 @@
 <img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/702027317282734104/865119664539303976/wifi.gif" />
 
 ### I am a Computer Engineering Student at UVPCE [Ganpat University] 
-- 🌱 I’m currently learning Web Development and Machine Learning.
+- 🌱 I'm Interested In Web Development and Machine Learning.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
