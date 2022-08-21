@@ -21,7 +21,6 @@
 ### I am a Computer Engineering Student at UVPCE [Ganpat University] 
 - 🌱 I'm Interested In Web Development and Machine Learning.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact: I love to learn new stuff and connect with people :raised_hands:
 
